@@ -71,3 +71,16 @@
 2025-07-25 21:54:13,172 utils.py get_rates INFO: Создание списка результатов с курсами валют
 2025-07-25 21:54:13,173 utils.py get_rates INFO: Отправка API-запроса на получение курсов валют
 2025-07-25 21:54:13,176 utils.py get_rates INFO: Создание списка результатов с курсами валют
+2025-07-25 23:02:39,754 utils.py get_cards_data INFO: DataFrame загружен из файла
+2025-07-25 23:02:39,815 utils.py get_cards_data INFO: Определение диапазона дат
+2025-07-25 23:02:39,821 utils.py get_cards_data INFO: Фильтрация по статусу и сумме платежа
+2025-07-25 23:02:39,921 utils.py get_cards_data INFO: Создание списка результатов
+2025-07-25 23:02:39,958 utils.py get_top_transactions INFO: DataFrame загружен из файла
+2025-07-25 23:02:39,967 utils.py get_top_transactions INFO: Определение диапазона дат
+2025-07-25 23:02:39,970 utils.py get_top_transactions INFO: Фильтрация по статусу
+2025-07-25 23:02:39,975 utils.py get_top_transactions INFO: Сортировка по сумме платежа
+2025-07-25 23:02:39,976 utils.py get_top_transactions INFO: Создание списка результатов
+2025-07-25 23:02:40,050 utils.py get_rates INFO: Отправка API-запроса на получение курсов валют
+2025-07-25 23:02:40,051 utils.py get_rates INFO: Создание списка результатов с курсами валют
+2025-07-25 23:02:40,054 utils.py get_rates INFO: Отправка API-запроса на получение курсов валют
+2025-07-25 23:02:40,055 utils.py get_rates INFO: Создание списка результатов с курсами валют

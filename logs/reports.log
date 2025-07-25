@@ -10,3 +10,11 @@
 2025-07-25 21:54:12,437 reports.py spending_by_category INFO: Определение диапазона дат
 2025-07-25 21:54:12,453 reports.py spending_by_category INFO: Фильтрации и возврат результата
 2025-07-25 21:54:12,722 reports.py wrapper INFO: Запись возврата функции в excel-файл
+2025-07-25 23:02:28,415 reports.py spending_by_category INFO: DataFrame загружен из файла
+2025-07-25 23:02:28,827 reports.py spending_by_category INFO: Определение диапазона дат
+2025-07-25 23:02:29,110 reports.py spending_by_category INFO: Фильтрации и возврат результата
+2025-07-25 23:02:30,626 reports.py wrapper INFO: Запись возврата функции в excel-файл
+2025-07-25 23:02:39,292 reports.py spending_by_category INFO: DataFrame загружен из файла
+2025-07-25 23:02:39,297 reports.py spending_by_category INFO: Определение диапазона дат
+2025-07-25 23:02:39,311 reports.py spending_by_category INFO: Фильтрации и возврат результата
+2025-07-25 23:02:39,426 reports.py wrapper INFO: Запись возврата функции в excel-файл
