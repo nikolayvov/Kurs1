@@ -58,3 +58,16 @@
 2025-07-25 20:03:44,850 utils.py get_settings INFO: Преобразование JSON-файла с кодами валют и акций
 2025-07-25 20:03:45,458 utils.py get_stocks INFO: Отправка API-запроса на получение стомости акций
 2025-07-25 20:03:45,458 utils.py get_stocks INFO: Создание списка результатов с стоимостями акций
+2025-07-25 21:54:12,973 utils.py get_cards_data INFO: DataFrame загружен из файла
+2025-07-25 21:54:13,003 utils.py get_cards_data INFO: Определение диапазона дат
+2025-07-25 21:54:13,008 utils.py get_cards_data INFO: Фильтрация по статусу и сумме платежа
+2025-07-25 21:54:13,066 utils.py get_cards_data INFO: Создание списка результатов
+2025-07-25 21:54:13,086 utils.py get_top_transactions INFO: DataFrame загружен из файла
+2025-07-25 21:54:13,097 utils.py get_top_transactions INFO: Определение диапазона дат
+2025-07-25 21:54:13,099 utils.py get_top_transactions INFO: Фильтрация по статусу
+2025-07-25 21:54:13,105 utils.py get_top_transactions INFO: Сортировка по сумме платежа
+2025-07-25 21:54:13,105 utils.py get_top_transactions INFO: Создание списка результатов
+2025-07-25 21:54:13,171 utils.py get_rates INFO: Отправка API-запроса на получение курсов валют
+2025-07-25 21:54:13,172 utils.py get_rates INFO: Создание списка результатов с курсами валют
+2025-07-25 21:54:13,173 utils.py get_rates INFO: Отправка API-запроса на получение курсов валют
+2025-07-25 21:54:13,176 utils.py get_rates INFO: Создание списка результатов с курсами валют
